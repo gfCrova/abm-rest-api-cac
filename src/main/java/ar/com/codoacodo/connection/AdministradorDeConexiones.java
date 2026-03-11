@@ -6,9 +6,9 @@ import java.sql.DriverManager;
 public class AdministradorDeConexiones {
 
 	public static Connection getConnection() {
-		String url = "jdbc:mysql://127.0.0.1:3306/desafio_codoacodo";
-		String username = "userJava";
-		String password = "Java_Proyect";
+		String url = "jdbc:mysql://127.0.0.1:3306/${DATABASE_NAME}";
+		String username = "${PATH_USERNAME}";
+		String password = "${PATH_PASSWORD}";
 		
 		String driverName = "com.mysql.cj.jdbc.Driver";
 		/*
