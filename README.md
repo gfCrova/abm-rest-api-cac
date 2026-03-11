@@ -1,8 +1,7 @@
 # App CRUD de Productos
-###  Actividad Integradora Final <img src="https://user-images.githubusercontent.com/103906625/212486941-bc65aa27-c85d-4f8c-8c7f-dad5d4dbd09c.png" width="80"/>
+###  Actividad Integradora Final
 
- 
-<p>Proyecto Java con arquetipo de aplicación web Maven. Se ejecuta en el servidor Tomcat. Utiliza MySQL para la base de datos.<p><hr>
+<br>
 
 Esta programa te permite:
 - ✔ Dar de alta un producto
